@@ -7,7 +7,7 @@ public class PizzaController {
 
     @RequestMapping(value = "/pizzas")
     private String getPizzaCode() {
-        return "PIzza Code";
+        return "Pizza Code is now available on amazon web services !";
     }
 
 }
